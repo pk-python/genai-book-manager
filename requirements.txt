@@ -1,0 +1,9 @@
+fastapi[all]
+uvicorn
+asyncpg
+sqlalchemy
+pydantic
+python-dotenv
+fastapi-jwt-auth
+ollama
+psycopg2-binary
